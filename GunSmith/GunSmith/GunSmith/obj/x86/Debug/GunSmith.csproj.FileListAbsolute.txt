@@ -1,0 +1,7 @@
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\bin\x86\Debug\GunSmith.exe
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\bin\x86\Debug\GunSmith.pdb
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\obj\x86\Debug\GunSmith.csprojResolveAssemblyReference.cache
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\obj\x86\Debug\GunSmith.exe
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\obj\x86\Debug\GunSmith.pdb
+C:\Users\Boler\Documents\GitHub\GunSmith\GunSmith\GunSmith\GunSmith\bin\x86\Debug\Content\DebugTitleImage.xnb
